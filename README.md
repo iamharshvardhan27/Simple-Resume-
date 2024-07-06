@@ -7,3 +7,5 @@ Simple and elegant resume template created using HTML and CSS. The template is d
 - Easy Customization: Simple and well-structured code allows for easy customization to fit your personal style and preferences.
 - Cross-Browser Compatibility: Works seamlessly across all modern browsers.
 
+# Demo
+You can view a live demo of the resume template here.
