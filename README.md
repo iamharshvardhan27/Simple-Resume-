@@ -8,4 +8,5 @@ Simple and elegant resume template created using HTML and CSS. The template is d
 - Cross-Browser Compatibility: Works seamlessly across all modern browsers.
 
 # Demo
-You can view a live demo of the resume template here.
+You can view a live demo of the resume template here. 
+- https://iamharshvardhan27.github.io/Simple-Resume-/
